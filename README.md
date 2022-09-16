@@ -1,13 +1,10 @@
-# The Goal of the NessCorrect
-NessCorrect project aims to increase cognitive interaction.
-
 # What is NessCorrect?
 *<p align="center">"Estimate hand landmarks and detect mobile phones. Touch the screen when it turns blue."* </p>
 
 <p align="center"><img src="https://github.com/ikranergiz/NessCorrect/blob/main/output%20of%20the%20project.gif" width="450" height="450"/> </p>
 <p align="center"><sub>Output of the NessCorrect</sub></p>
 
-This is a program that recognizes hand landmarks using Mediapipe (Python version) and detects mobile phones with a trained YOLOv5 model.
+This is a program that recognizes hand landmarks using Mediapipe (Python version) and detects mobile phones with a trained YOLOv5 model. It aims to increase cognitive interaction.
 
 Let's get started by picking up your mobile phone. While holding it, you'll see your detected hand landmarks and mobile phone. If its screen turns blue, it means a blue color-changing signal. Now, you have to touch the mobile phone screen within 5 second. After that, you are going to see the "WELL DONE!" as a message in the left corner of the screen.
 
